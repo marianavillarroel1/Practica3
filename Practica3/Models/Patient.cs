@@ -1,4 +1,4 @@
-﻿namespace Practice3.Models
+﻿namespace Practica3.Models
 {
     public class Patient
     {
